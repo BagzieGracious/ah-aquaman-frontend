@@ -1,5 +1,4 @@
-[![Build Status](https://travis-ci.com/andela/ah-aquaman-frontend.svg?branch=develop)](https://travis-ci.com/andela/ah-aquaman-frontend) [![Maintainability](https://api.codeclimate.com/v1/badges/727c9e81bf53c1fe6e78/maintainability)](https://codeclimate.com/github/andela/ah-aquaman-frontend/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/727c9e81bf53c1fe6e78/test_coverage)](https://codeclimate.com/github/andela/ah-aquaman-frontend/test_coverage)
-
+[![Maintainability](https://api.codeclimate.com/v1/badges/727c9e81bf53c1fe6e78/maintainability)](https://codeclimate.com/github/andela/ah-aquaman-frontend/maintainability)
 # Authors Haven.
 
 - A Social platform for the creative at heart.
